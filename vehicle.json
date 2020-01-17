@@ -1,0 +1,58 @@
+[
+  {
+    "vehicleID": 1,
+    "vehicleName": "lincoln",
+    "coords": {
+      "lat": 40.313507,
+      "lng": -74.288087
+    }
+  },
+  {
+    "vehicleID": 2,
+    "vehicleName": "dodge",
+    "coords": {
+      "lat": 41.43206,
+      "lng": -81.38992
+    }
+  },
+  {
+    "vehicleID": 3,
+    "vehicleName": "toyota",
+    "coords": {
+      "lat": 41.42345,
+      "lng": -81.38992
+    }
+  },
+  {
+    "vehicleID": 4,
+    "vehicleName": "mercedes",
+    "coords": {
+      "lat": 41.41433,
+      "lng": -81.38792
+    }
+  },
+  {
+    "vehicleID": 5,
+    "vehicleName": "cadillac",
+    "coords": {
+      "lat": 41.40343,
+      "lng": -81.38982
+    }
+  },
+  {
+    "vehicleID": 6,
+    "vehicleName": "big evs old tbird",
+    "coords": {
+      "lat": 41.42342,
+      "lng": -81.38333
+    }
+  },
+  {
+    "vehicleID": 7,
+    "vehicleName": "garys hoopty",
+    "coords": {
+      "lat": 41.43532,
+      "lng": -81.38989
+    }
+  }
+]

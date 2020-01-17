@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@mapbox/polyline": "^1.1.0",
+    "axios": "^0.19.1",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "node-geocoder": "^3.25.0"
+  },
+  "name": "find-closest-vehicle",
+  "version": "1",
+  "description": "Find the closest vehicle to a destination point.",
+  "main": "server.js",
+  "author": "@brenta1283",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "nodemon server.js"
+  }
+}
